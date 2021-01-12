@@ -7,8 +7,8 @@ Los Angeles. We would like to explore inequities in access to parks and bikelane
 
 A preliminary but definitive description of data sources (at least two) that you will use
 Census Data
-Park Data
-Bikelane Data
+Park Data (https://catalog.data.gov/dataset/department-of-recreation-and-parks-gis-map-of-park-boundaries)
+Bikelane Data (https://geohub.lacity.org/datasets/230abc621b144dbc96cca83d65bd454d_0?geometry=-118.445%2C34.058%2C-118.404%2C34.065 AND https://www.arcgis.com/home/webmap/viewer.html?layers=230abc621b144dbc96cca83d65bd454d)
 Public Housing Data
 
 Include datasource with links
