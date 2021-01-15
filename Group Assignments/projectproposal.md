@@ -1,4 +1,4 @@
-##Parks and Bike Lanes in LA##
+# Parks and Bike Lanes in LA #
 **An introduction of your research question**
 Since the pandemic began, access to outdoor spaces and activites have become more important in maintaining physical and mental health. We are curious in researching how access to these amenities may vary by socioeconomic status of Los Angeles's communities. Specifically, how accessible are public parks and bike lanes in low-income communities?
 
