@@ -11,6 +11,7 @@ Brian Ramirez: Income data researcher, Park data researcher. Acquire data for In
 Data update: As of now, we have a majority of the data that we believe we will be using. This data includes census data, park data, and bike lane data. Also, it was helpful to use the race and income data in our labs and assignments because it provided us with practice in managing and manipulating the data.
 
 **Links:** 
+
 Census Data (https://censusreporter.org/profiles/16000US0644000-los-angeles-ca/)
 
 Park Data (https://catalog.data.gov/dataset/department-of-recreation-and-parks-gis-map-of-park-boundaries)
