@@ -1,9 +1,9 @@
-## Researching access to Parks and Bike lanes in Los Angeles ##
+## Researching access to Parks and Bike Lanes in Los Angeles ##
 
 **Link to proposal:**
 https://github.com/kvenegas1/BrianKim/blob/main/Group%20Assignments/Status%20Report https://github.com/kvenegas1/BrianKim/tree/main/Group%20Assignments
 
-**Roles (only for groups):** Give each team member a title, and define what role each team member will play, and how each person plans to contribute to the project. While this may be subject to change, it is a good idea to define this early in the project to clarify "who is doing what."
+**Roles:** Give each team member a title, and define what role each team member will play, and how each person plans to contribute to the project. While this may be subject to change, it is a good idea to define this early in the project to clarify "who is doing what."
 Kim Venegas: Race data researcher, Bike lane data researcher. Acquire data for race and bike lanes. Create charts and maps for race and bike lanes.
 Brian Ramirez: Income data researcher, Park data researcher. Acquire data for Income and Park lanes. Create charts and maps for income and parks.
 
