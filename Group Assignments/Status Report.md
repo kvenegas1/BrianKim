@@ -1,4 +1,4 @@
-## Researching access to Parks and Bikelanes in Los Angeles ##
+## Researching access to Parks and Bike lanes in Los Angeles ##
 
 **Link to proposal:**
 https://github.com/kvenegas1/BrianKim/blob/main/Group%20Assignments/Status%20Report https://github.com/kvenegas1/BrianKim/tree/main/Group%20Assignments
