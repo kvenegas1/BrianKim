@@ -24,7 +24,7 @@ We chose Los Angeles because it is experiencing the highest rates of COVID-19 ca
 
 The first data source is median household income census data for the City of Los Angeles. This will be important to visualize the differences in socio-economic status between census tracts. 
 
-The second data source is park data from LA Department of Recreation and Parks for the City of Los Angeles. This will be used to locate parks and other public recreation facilities.
+The second data source is park data from LA Department of Recreation and Parks for the City of Los Angeles. This will be used to locate parks and other public recreation facilities. 
 
 
 **Include datasource with links:**
