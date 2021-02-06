@@ -4,7 +4,6 @@
 Since the pandemic began, access to outdoor spaces and activites have become more important in maintaining physical and mental health. We are curious in researching how access to these amenities may vary by socioeconomic status of Los Angeles's communities.
 
 
-
 Our research question is: How accessible are parks and other public recreation facilities in the lowest income neighborhoods and highest income neighborhoods in LA city?
 
 We will answer this question by creating an interactive map of median household income by census tract and park locations in the City of Los Angeles. In addition, we will look deeper into accessability to parks and other public recreation facilities in one of Los Angeles' highest income census tracts.
