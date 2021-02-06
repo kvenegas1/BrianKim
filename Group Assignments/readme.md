@@ -38,4 +38,4 @@ We will conduct a spatial analysis by measuring the proximity of parks and and o
 
 **A concluding paragraph of what insights you expect to gain from your research:**
 
-We expect to determine whether there are disparities in access to parks and bike lanes in lower income census tracts. Furthermore, finding disparities would mean that there is a need for efforts aimed at increasing access to parks in low income communities.
+We expect to determine whether there are disparities in access to parks and bother public recreation facilities  in lower income census tracts. Furthermore, finding disparities would mean that there is a need for efforts aimed at increasing access to parks in low income communities.
