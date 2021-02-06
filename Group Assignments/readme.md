@@ -6,7 +6,6 @@ Since the pandemic began, access to outdoor spaces and activites have become mor
 
 Our research question is: How accessible are parks and other public recreation facilities in the lowest income neighborhoods and highest income neighborhoods in LA city?
 
-We will answer this question by creating an interactive map of median household income by census tract and park locations in the City of Los Angeles. In addition, we will look deeper into accessability to parks and other public recreation facilities in one of Los Angeles' highest income census tracts.
 
 
 **An explanation of why it is important to you, why it matters to others, and what is at stake:**
@@ -35,7 +34,7 @@ Park Data (https://geohub.lacity.org/datasets/recreation-and-parks-facilities?ge
 
 **A scope that explains the intended analysis and resulting visualizations for your project:**
 
-We will conduct a spatial analysis by measuring the proximity of parks and and other public recreation facilities to lower income census tracts. The resulting viualization will be a map of parks, and median household income by census tract. 
+We will conduct a spatial analysis by measuring the proximity of parks and and other public recreation facilities to lower income and higher income census tracts. The resulting viualization will be a map of parks, and median household income by census tract. 
 
 **A concluding paragraph of what insights you expect to gain from your research:**
 
